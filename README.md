@@ -1,3 +1,3 @@
 # test_repository
 
-Hi! This is a test file. Ignore.
+Hi! This is a test for resolving merge conflicts.
